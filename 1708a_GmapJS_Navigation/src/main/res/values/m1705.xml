@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt_select_location">請選擇地點</string>
+    <string name="toutput">狀態</string>
+    <string name="showlocid">顯示目前位置</string>
+    <string name="tNavigation">路徑規劃</string>
+</resources>
